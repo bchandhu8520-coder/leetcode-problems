@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
