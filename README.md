@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0541-reverse-string-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
