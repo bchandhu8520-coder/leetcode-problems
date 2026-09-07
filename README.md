@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -58,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
