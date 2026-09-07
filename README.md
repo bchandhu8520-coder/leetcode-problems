@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 ## Bubble Sort
