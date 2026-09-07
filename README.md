@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,4 +166,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
