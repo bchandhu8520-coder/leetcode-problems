@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
