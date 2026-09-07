@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
