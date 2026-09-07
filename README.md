@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
