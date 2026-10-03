@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
