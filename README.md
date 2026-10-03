@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0179-largest-number) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
