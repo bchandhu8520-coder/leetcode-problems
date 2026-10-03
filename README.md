@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0164-maximum-gap) |
