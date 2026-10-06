@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -392,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
