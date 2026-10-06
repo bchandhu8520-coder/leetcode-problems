@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [1408-string-matching-in-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [1668-maximum-repeating-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
