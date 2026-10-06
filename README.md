@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
