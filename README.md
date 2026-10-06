@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0179-largest-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -398,9 +401,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
