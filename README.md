@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0191-number-of-1-bits) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
