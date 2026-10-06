@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
