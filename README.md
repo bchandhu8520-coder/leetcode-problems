@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1392-longest-happy-prefix](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1668-maximum-repeating-substring) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0806-number-of-lines-to-write-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
