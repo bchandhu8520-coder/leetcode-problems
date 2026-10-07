@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Design
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
