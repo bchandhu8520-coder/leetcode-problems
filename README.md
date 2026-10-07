@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0328-odd-even-linked-list) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
