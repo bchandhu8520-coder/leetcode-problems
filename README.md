@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -260,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
