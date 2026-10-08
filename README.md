@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0686-repeated-string-match) |
+| [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 ## Bubble Sort
