@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Design
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Sorting
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
