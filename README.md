@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
+| [1046-last-stone-weight](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1408-string-matching-in-an-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
