@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0904-fruit-into-baskets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Design
