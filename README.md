@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0503-next-greater-element-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -349,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1051-height-checker) |
 ## Bubble Sort
@@ -379,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
