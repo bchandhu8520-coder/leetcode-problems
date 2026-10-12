@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Tournament Sort
 |  |
