@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0806-number-of-lines-to-write-string](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
@@ -664,4 +668,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bchandhu8520-coder/leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
